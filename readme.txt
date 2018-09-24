@@ -1,0 +1,1 @@
+scrapy 实现的分页爬取，并存入到mongdb
